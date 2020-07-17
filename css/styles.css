@@ -110,6 +110,7 @@ ol,
 ul,
 dl {
   margin-top: 0;
+  list-style: justify;
   margin-bottom: 1rem;
 }
 
