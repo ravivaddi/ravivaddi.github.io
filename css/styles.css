@@ -111,6 +111,7 @@ ul,
 dl {
   margin-top: 0;
   list-style: justify;
+  text-align: justify;
   margin-bottom: 1rem;
 }
 
